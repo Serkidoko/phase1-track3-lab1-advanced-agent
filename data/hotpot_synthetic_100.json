@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "hp1",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England."
+      }
+    ]
+  },
+  {
+    "qid": "hp2",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "hp3",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+      }
+    ]
+  },
+  {
+    "qid": "hp4",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Lima",
+        "text": "Lima is the capital city of Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+      },
+      {
+        "title": "Laws of motion",
+        "text": "The three laws of motion are attributed to Isaac Newton."
+      }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is a historical city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "medium",
+    "question": "Which language family does the primary language of Brazil belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Brazil",
+        "text": "The official language of Brazil is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Kathmandu",
+        "text": "Kathmandu is the capital city of Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "syn001",
+    "difficulty": "easy",
+    "question": "Which country is the company that created the iPhone headquartered in?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "iPhone",
+        "text": "The iPhone was created by Apple Inc."
+      },
+      {
+        "title": "Apple Inc.",
+        "text": "Apple Inc. is headquartered in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "syn002",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Tokyo?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital city of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn003",
+    "difficulty": "medium",
+    "question": "What river runs through the city where the Eiffel Tower is located?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine river runs through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "syn004",
+    "difficulty": "easy",
+    "question": "What sport is played by the team based at Camp Nou?",
+    "gold_answer": "football",
+    "context": [
+      {
+        "title": "Camp Nou",
+        "text": "Camp Nou is the home stadium of FC Barcelona."
+      },
+      {
+        "title": "FC Barcelona",
+        "text": "FC Barcelona is a professional football club."
+      }
+    ]
+  },
+  {
+    "qid": "syn005",
+    "difficulty": "medium",
+    "question": "What language family includes the language primarily spoken in Argentina?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Argentina",
+        "text": "The primary language spoken in Argentina is Spanish."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "syn006",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Islamabad?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Islamabad",
+        "text": "Islamabad is the capital city of Pakistan."
+      },
+      {
+        "title": "Pakistan",
+        "text": "K2 is one of the highest mountains in Pakistan and is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "syn007",
+    "difficulty": "easy",
+    "question": "What instrument did the musician nicknamed Satchmo mainly play?",
+    "gold_answer": "trumpet",
+    "context": [
+      {
+        "title": "Louis Armstrong",
+        "text": "Louis Armstrong was nicknamed Satchmo."
+      },
+      {
+        "title": "Satchmo",
+        "text": "Satchmo, Louis Armstrong, was a famous trumpet player."
+      }
+    ]
+  },
+  {
+    "qid": "syn008",
+    "difficulty": "medium",
+    "question": "What sea borders the country where the city of Alexandria is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Alexandria",
+        "text": "Alexandria is a major city in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt has a northern coast on the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn009",
+    "difficulty": "medium",
+    "question": "Which continent contains the country whose capital is Nairobi?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Nairobi",
+        "text": "Nairobi is the capital city of Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya is a country in Africa."
+      }
+    ]
+  },
+  {
+    "qid": "syn010",
+    "difficulty": "easy",
+    "question": "What field was Marie Curie famous for besides chemistry?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a chemist and physicist."
+      },
+      {
+        "title": "Physics",
+        "text": "Physics is a natural science concerned with matter and energy."
+      }
+    ]
+  },
+  {
+    "qid": "syn011",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Wellington?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Wellington",
+        "text": "Wellington is the capital city of New Zealand."
+      },
+      {
+        "title": "New Zealand",
+        "text": "New Zealand is in the southwestern Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn012",
+    "difficulty": "medium",
+    "question": "What river flows through the capital city of Hungary?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Hungary",
+        "text": "The capital city of Hungary is Budapest."
+      },
+      {
+        "title": "Budapest",
+        "text": "The Danube river flows through Budapest."
+      }
+    ]
+  },
+  {
+    "qid": "syn013",
+    "difficulty": "hard",
+    "question": "Which desert is in the country whose capital is Ulaanbaatar?",
+    "gold_answer": "Gobi Desert",
+    "context": [
+      {
+        "title": "Ulaanbaatar",
+        "text": "Ulaanbaatar is the capital city of Mongolia."
+      },
+      {
+        "title": "Mongolia",
+        "text": "The Gobi Desert extends across southern Mongolia."
+      }
+    ]
+  },
+  {
+    "qid": "syn014",
+    "difficulty": "easy",
+    "question": "What art movement is associated with the painter of The Starry Night?",
+    "gold_answer": "Post-Impressionism",
+    "context": [
+      {
+        "title": "The Starry Night",
+        "text": "The Starry Night was painted by Vincent van Gogh."
+      },
+      {
+        "title": "Vincent van Gogh",
+        "text": "Vincent van Gogh is associated with Post-Impressionism."
+      }
+    ]
+  },
+  {
+    "qid": "syn015",
+    "difficulty": "medium",
+    "question": "What is the currency of the country whose capital is Ottawa?",
+    "gold_answer": "Canadian dollar",
+    "context": [
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "The currency of Canada is the Canadian dollar."
+      }
+    ]
+  },
+  {
+    "qid": "syn016",
+    "difficulty": "medium",
+    "question": "What language is official in the country whose capital is Madrid?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital city of Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spanish is the official language of Spain."
+      }
+    ]
+  },
+  {
+    "qid": "syn017",
+    "difficulty": "hard",
+    "question": "Which sea lies near the country where the ancient city of Troy was located?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Troy",
+        "text": "The ancient city of Troy was located in present-day Turkey."
+      },
+      {
+        "title": "Turkey",
+        "text": "Western Turkey lies near the Aegean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn018",
+    "difficulty": "medium",
+    "question": "What branch of science did the discoverer of penicillin work in?",
+    "gold_answer": "bacteriology",
+    "context": [
+      {
+        "title": "Penicillin",
+        "text": "Penicillin was discovered by Alexander Fleming."
+      },
+      {
+        "title": "Alexander Fleming",
+        "text": "Alexander Fleming worked in bacteriology."
+      }
+    ]
+  },
+  {
+    "qid": "syn019",
+    "difficulty": "easy",
+    "question": "What country is the city that hosts the Colosseum located in?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is located in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "syn020",
+    "difficulty": "medium",
+    "question": "Which river flows through the city that contains the Louvre Museum?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Louvre Museum",
+        "text": "The Louvre Museum is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine flows through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "syn021",
+    "difficulty": "hard",
+    "question": "What ocean borders the country where Machu Picchu is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn022",
+    "difficulty": "medium",
+    "question": "What language family includes the official language of Portugal?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Portugal",
+        "text": "The official language of Portugal is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "syn023",
+    "difficulty": "easy",
+    "question": "What profession was the author of 1984 known for?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "1984",
+        "text": "The novel 1984 was written by George Orwell."
+      },
+      {
+        "title": "George Orwell",
+        "text": "George Orwell was an English writer and journalist."
+      }
+    ]
+  },
+  {
+    "qid": "syn024",
+    "difficulty": "easy",
+    "question": "Which country is the company that created the iPhone headquartered in?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "iPhone",
+        "text": "The iPhone was created by Apple Inc."
+      },
+      {
+        "title": "Apple Inc.",
+        "text": "Apple Inc. is headquartered in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "syn025",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Tokyo?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital city of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn026",
+    "difficulty": "medium",
+    "question": "What river runs through the city where the Eiffel Tower is located?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine river runs through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "syn027",
+    "difficulty": "easy",
+    "question": "What sport is played by the team based at Camp Nou?",
+    "gold_answer": "football",
+    "context": [
+      {
+        "title": "Camp Nou",
+        "text": "Camp Nou is the home stadium of FC Barcelona."
+      },
+      {
+        "title": "FC Barcelona",
+        "text": "FC Barcelona is a professional football club."
+      }
+    ]
+  },
+  {
+    "qid": "syn028",
+    "difficulty": "medium",
+    "question": "What language family includes the language primarily spoken in Argentina?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Argentina",
+        "text": "The primary language spoken in Argentina is Spanish."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "syn029",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Islamabad?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Islamabad",
+        "text": "Islamabad is the capital city of Pakistan."
+      },
+      {
+        "title": "Pakistan",
+        "text": "K2 is one of the highest mountains in Pakistan and is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "syn030",
+    "difficulty": "easy",
+    "question": "What instrument did the musician nicknamed Satchmo mainly play?",
+    "gold_answer": "trumpet",
+    "context": [
+      {
+        "title": "Louis Armstrong",
+        "text": "Louis Armstrong was nicknamed Satchmo."
+      },
+      {
+        "title": "Satchmo",
+        "text": "Satchmo, Louis Armstrong, was a famous trumpet player."
+      }
+    ]
+  },
+  {
+    "qid": "syn031",
+    "difficulty": "medium",
+    "question": "What sea borders the country where the city of Alexandria is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Alexandria",
+        "text": "Alexandria is a major city in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt has a northern coast on the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn032",
+    "difficulty": "medium",
+    "question": "Which continent contains the country whose capital is Nairobi?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Nairobi",
+        "text": "Nairobi is the capital city of Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya is a country in Africa."
+      }
+    ]
+  },
+  {
+    "qid": "syn033",
+    "difficulty": "easy",
+    "question": "What field was Marie Curie famous for besides chemistry?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a chemist and physicist."
+      },
+      {
+        "title": "Physics",
+        "text": "Physics is a natural science concerned with matter and energy."
+      }
+    ]
+  },
+  {
+    "qid": "syn034",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Wellington?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Wellington",
+        "text": "Wellington is the capital city of New Zealand."
+      },
+      {
+        "title": "New Zealand",
+        "text": "New Zealand is in the southwestern Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn035",
+    "difficulty": "medium",
+    "question": "What river flows through the capital city of Hungary?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Hungary",
+        "text": "The capital city of Hungary is Budapest."
+      },
+      {
+        "title": "Budapest",
+        "text": "The Danube river flows through Budapest."
+      }
+    ]
+  },
+  {
+    "qid": "syn036",
+    "difficulty": "hard",
+    "question": "Which desert is in the country whose capital is Ulaanbaatar?",
+    "gold_answer": "Gobi Desert",
+    "context": [
+      {
+        "title": "Ulaanbaatar",
+        "text": "Ulaanbaatar is the capital city of Mongolia."
+      },
+      {
+        "title": "Mongolia",
+        "text": "The Gobi Desert extends across southern Mongolia."
+      }
+    ]
+  },
+  {
+    "qid": "syn037",
+    "difficulty": "easy",
+    "question": "What art movement is associated with the painter of The Starry Night?",
+    "gold_answer": "Post-Impressionism",
+    "context": [
+      {
+        "title": "The Starry Night",
+        "text": "The Starry Night was painted by Vincent van Gogh."
+      },
+      {
+        "title": "Vincent van Gogh",
+        "text": "Vincent van Gogh is associated with Post-Impressionism."
+      }
+    ]
+  },
+  {
+    "qid": "syn038",
+    "difficulty": "medium",
+    "question": "What is the currency of the country whose capital is Ottawa?",
+    "gold_answer": "Canadian dollar",
+    "context": [
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "The currency of Canada is the Canadian dollar."
+      }
+    ]
+  },
+  {
+    "qid": "syn039",
+    "difficulty": "medium",
+    "question": "What language is official in the country whose capital is Madrid?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital city of Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spanish is the official language of Spain."
+      }
+    ]
+  },
+  {
+    "qid": "syn040",
+    "difficulty": "hard",
+    "question": "Which sea lies near the country where the ancient city of Troy was located?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Troy",
+        "text": "The ancient city of Troy was located in present-day Turkey."
+      },
+      {
+        "title": "Turkey",
+        "text": "Western Turkey lies near the Aegean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn041",
+    "difficulty": "medium",
+    "question": "What branch of science did the discoverer of penicillin work in?",
+    "gold_answer": "bacteriology",
+    "context": [
+      {
+        "title": "Penicillin",
+        "text": "Penicillin was discovered by Alexander Fleming."
+      },
+      {
+        "title": "Alexander Fleming",
+        "text": "Alexander Fleming worked in bacteriology."
+      }
+    ]
+  },
+  {
+    "qid": "syn042",
+    "difficulty": "easy",
+    "question": "What country is the city that hosts the Colosseum located in?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is located in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "syn043",
+    "difficulty": "medium",
+    "question": "Which river flows through the city that contains the Louvre Museum?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Louvre Museum",
+        "text": "The Louvre Museum is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine flows through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "syn044",
+    "difficulty": "hard",
+    "question": "What ocean borders the country where Machu Picchu is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn045",
+    "difficulty": "medium",
+    "question": "What language family includes the official language of Portugal?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Portugal",
+        "text": "The official language of Portugal is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "syn046",
+    "difficulty": "easy",
+    "question": "What profession was the author of 1984 known for?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "1984",
+        "text": "The novel 1984 was written by George Orwell."
+      },
+      {
+        "title": "George Orwell",
+        "text": "George Orwell was an English writer and journalist."
+      }
+    ]
+  },
+  {
+    "qid": "syn047",
+    "difficulty": "easy",
+    "question": "Which country is the company that created the iPhone headquartered in?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "iPhone",
+        "text": "The iPhone was created by Apple Inc."
+      },
+      {
+        "title": "Apple Inc.",
+        "text": "Apple Inc. is headquartered in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "syn048",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Tokyo?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital city of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn049",
+    "difficulty": "medium",
+    "question": "What river runs through the city where the Eiffel Tower is located?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine river runs through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "syn050",
+    "difficulty": "easy",
+    "question": "What sport is played by the team based at Camp Nou?",
+    "gold_answer": "football",
+    "context": [
+      {
+        "title": "Camp Nou",
+        "text": "Camp Nou is the home stadium of FC Barcelona."
+      },
+      {
+        "title": "FC Barcelona",
+        "text": "FC Barcelona is a professional football club."
+      }
+    ]
+  },
+  {
+    "qid": "syn051",
+    "difficulty": "medium",
+    "question": "What language family includes the language primarily spoken in Argentina?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Argentina",
+        "text": "The primary language spoken in Argentina is Spanish."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "syn052",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Islamabad?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Islamabad",
+        "text": "Islamabad is the capital city of Pakistan."
+      },
+      {
+        "title": "Pakistan",
+        "text": "K2 is one of the highest mountains in Pakistan and is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "syn053",
+    "difficulty": "easy",
+    "question": "What instrument did the musician nicknamed Satchmo mainly play?",
+    "gold_answer": "trumpet",
+    "context": [
+      {
+        "title": "Louis Armstrong",
+        "text": "Louis Armstrong was nicknamed Satchmo."
+      },
+      {
+        "title": "Satchmo",
+        "text": "Satchmo, Louis Armstrong, was a famous trumpet player."
+      }
+    ]
+  },
+  {
+    "qid": "syn054",
+    "difficulty": "medium",
+    "question": "What sea borders the country where the city of Alexandria is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Alexandria",
+        "text": "Alexandria is a major city in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt has a northern coast on the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn055",
+    "difficulty": "medium",
+    "question": "Which continent contains the country whose capital is Nairobi?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Nairobi",
+        "text": "Nairobi is the capital city of Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya is a country in Africa."
+      }
+    ]
+  },
+  {
+    "qid": "syn056",
+    "difficulty": "easy",
+    "question": "What field was Marie Curie famous for besides chemistry?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a chemist and physicist."
+      },
+      {
+        "title": "Physics",
+        "text": "Physics is a natural science concerned with matter and energy."
+      }
+    ]
+  },
+  {
+    "qid": "syn057",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Wellington?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Wellington",
+        "text": "Wellington is the capital city of New Zealand."
+      },
+      {
+        "title": "New Zealand",
+        "text": "New Zealand is in the southwestern Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn058",
+    "difficulty": "medium",
+    "question": "What river flows through the capital city of Hungary?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Hungary",
+        "text": "The capital city of Hungary is Budapest."
+      },
+      {
+        "title": "Budapest",
+        "text": "The Danube river flows through Budapest."
+      }
+    ]
+  },
+  {
+    "qid": "syn059",
+    "difficulty": "hard",
+    "question": "Which desert is in the country whose capital is Ulaanbaatar?",
+    "gold_answer": "Gobi Desert",
+    "context": [
+      {
+        "title": "Ulaanbaatar",
+        "text": "Ulaanbaatar is the capital city of Mongolia."
+      },
+      {
+        "title": "Mongolia",
+        "text": "The Gobi Desert extends across southern Mongolia."
+      }
+    ]
+  },
+  {
+    "qid": "syn060",
+    "difficulty": "easy",
+    "question": "What art movement is associated with the painter of The Starry Night?",
+    "gold_answer": "Post-Impressionism",
+    "context": [
+      {
+        "title": "The Starry Night",
+        "text": "The Starry Night was painted by Vincent van Gogh."
+      },
+      {
+        "title": "Vincent van Gogh",
+        "text": "Vincent van Gogh is associated with Post-Impressionism."
+      }
+    ]
+  },
+  {
+    "qid": "syn061",
+    "difficulty": "medium",
+    "question": "What is the currency of the country whose capital is Ottawa?",
+    "gold_answer": "Canadian dollar",
+    "context": [
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "The currency of Canada is the Canadian dollar."
+      }
+    ]
+  },
+  {
+    "qid": "syn062",
+    "difficulty": "medium",
+    "question": "What language is official in the country whose capital is Madrid?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital city of Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spanish is the official language of Spain."
+      }
+    ]
+  },
+  {
+    "qid": "syn063",
+    "difficulty": "hard",
+    "question": "Which sea lies near the country where the ancient city of Troy was located?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Troy",
+        "text": "The ancient city of Troy was located in present-day Turkey."
+      },
+      {
+        "title": "Turkey",
+        "text": "Western Turkey lies near the Aegean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn064",
+    "difficulty": "medium",
+    "question": "What branch of science did the discoverer of penicillin work in?",
+    "gold_answer": "bacteriology",
+    "context": [
+      {
+        "title": "Penicillin",
+        "text": "Penicillin was discovered by Alexander Fleming."
+      },
+      {
+        "title": "Alexander Fleming",
+        "text": "Alexander Fleming worked in bacteriology."
+      }
+    ]
+  },
+  {
+    "qid": "syn065",
+    "difficulty": "easy",
+    "question": "What country is the city that hosts the Colosseum located in?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is located in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "syn066",
+    "difficulty": "medium",
+    "question": "Which river flows through the city that contains the Louvre Museum?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Louvre Museum",
+        "text": "The Louvre Museum is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine flows through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "syn067",
+    "difficulty": "hard",
+    "question": "What ocean borders the country where Machu Picchu is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn068",
+    "difficulty": "medium",
+    "question": "What language family includes the official language of Portugal?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Portugal",
+        "text": "The official language of Portugal is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "syn069",
+    "difficulty": "easy",
+    "question": "What profession was the author of 1984 known for?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "1984",
+        "text": "The novel 1984 was written by George Orwell."
+      },
+      {
+        "title": "George Orwell",
+        "text": "George Orwell was an English writer and journalist."
+      }
+    ]
+  },
+  {
+    "qid": "syn070",
+    "difficulty": "easy",
+    "question": "Which country is the company that created the iPhone headquartered in?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "iPhone",
+        "text": "The iPhone was created by Apple Inc."
+      },
+      {
+        "title": "Apple Inc.",
+        "text": "Apple Inc. is headquartered in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "syn071",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Tokyo?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital city of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn072",
+    "difficulty": "medium",
+    "question": "What river runs through the city where the Eiffel Tower is located?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine river runs through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "syn073",
+    "difficulty": "easy",
+    "question": "What sport is played by the team based at Camp Nou?",
+    "gold_answer": "football",
+    "context": [
+      {
+        "title": "Camp Nou",
+        "text": "Camp Nou is the home stadium of FC Barcelona."
+      },
+      {
+        "title": "FC Barcelona",
+        "text": "FC Barcelona is a professional football club."
+      }
+    ]
+  },
+  {
+    "qid": "syn074",
+    "difficulty": "medium",
+    "question": "What language family includes the language primarily spoken in Argentina?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Argentina",
+        "text": "The primary language spoken in Argentina is Spanish."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "syn075",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Islamabad?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Islamabad",
+        "text": "Islamabad is the capital city of Pakistan."
+      },
+      {
+        "title": "Pakistan",
+        "text": "K2 is one of the highest mountains in Pakistan and is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "syn076",
+    "difficulty": "easy",
+    "question": "What instrument did the musician nicknamed Satchmo mainly play?",
+    "gold_answer": "trumpet",
+    "context": [
+      {
+        "title": "Louis Armstrong",
+        "text": "Louis Armstrong was nicknamed Satchmo."
+      },
+      {
+        "title": "Satchmo",
+        "text": "Satchmo, Louis Armstrong, was a famous trumpet player."
+      }
+    ]
+  },
+  {
+    "qid": "syn077",
+    "difficulty": "medium",
+    "question": "What sea borders the country where the city of Alexandria is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Alexandria",
+        "text": "Alexandria is a major city in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt has a northern coast on the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn078",
+    "difficulty": "medium",
+    "question": "Which continent contains the country whose capital is Nairobi?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Nairobi",
+        "text": "Nairobi is the capital city of Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya is a country in Africa."
+      }
+    ]
+  },
+  {
+    "qid": "syn079",
+    "difficulty": "easy",
+    "question": "What field was Marie Curie famous for besides chemistry?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a chemist and physicist."
+      },
+      {
+        "title": "Physics",
+        "text": "Physics is a natural science concerned with matter and energy."
+      }
+    ]
+  },
+  {
+    "qid": "syn080",
+    "difficulty": "medium",
+    "question": "What ocean borders the country whose capital is Wellington?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Wellington",
+        "text": "Wellington is the capital city of New Zealand."
+      },
+      {
+        "title": "New Zealand",
+        "text": "New Zealand is in the southwestern Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn081",
+    "difficulty": "medium",
+    "question": "What river flows through the capital city of Hungary?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Hungary",
+        "text": "The capital city of Hungary is Budapest."
+      },
+      {
+        "title": "Budapest",
+        "text": "The Danube river flows through Budapest."
+      }
+    ]
+  },
+  {
+    "qid": "syn082",
+    "difficulty": "hard",
+    "question": "Which desert is in the country whose capital is Ulaanbaatar?",
+    "gold_answer": "Gobi Desert",
+    "context": [
+      {
+        "title": "Ulaanbaatar",
+        "text": "Ulaanbaatar is the capital city of Mongolia."
+      },
+      {
+        "title": "Mongolia",
+        "text": "The Gobi Desert extends across southern Mongolia."
+      }
+    ]
+  },
+  {
+    "qid": "syn083",
+    "difficulty": "easy",
+    "question": "What art movement is associated with the painter of The Starry Night?",
+    "gold_answer": "Post-Impressionism",
+    "context": [
+      {
+        "title": "The Starry Night",
+        "text": "The Starry Night was painted by Vincent van Gogh."
+      },
+      {
+        "title": "Vincent van Gogh",
+        "text": "Vincent van Gogh is associated with Post-Impressionism."
+      }
+    ]
+  },
+  {
+    "qid": "syn084",
+    "difficulty": "medium",
+    "question": "What is the currency of the country whose capital is Ottawa?",
+    "gold_answer": "Canadian dollar",
+    "context": [
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "The currency of Canada is the Canadian dollar."
+      }
+    ]
+  },
+  {
+    "qid": "syn085",
+    "difficulty": "medium",
+    "question": "What language is official in the country whose capital is Madrid?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital city of Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spanish is the official language of Spain."
+      }
+    ]
+  },
+  {
+    "qid": "syn086",
+    "difficulty": "hard",
+    "question": "Which sea lies near the country where the ancient city of Troy was located?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Troy",
+        "text": "The ancient city of Troy was located in present-day Turkey."
+      },
+      {
+        "title": "Turkey",
+        "text": "Western Turkey lies near the Aegean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn087",
+    "difficulty": "medium",
+    "question": "What branch of science did the discoverer of penicillin work in?",
+    "gold_answer": "bacteriology",
+    "context": [
+      {
+        "title": "Penicillin",
+        "text": "Penicillin was discovered by Alexander Fleming."
+      },
+      {
+        "title": "Alexander Fleming",
+        "text": "Alexander Fleming worked in bacteriology."
+      }
+    ]
+  },
+  {
+    "qid": "syn088",
+    "difficulty": "easy",
+    "question": "What country is the city that hosts the Colosseum located in?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is located in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "syn089",
+    "difficulty": "medium",
+    "question": "Which river flows through the city that contains the Louvre Museum?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Louvre Museum",
+        "text": "The Louvre Museum is located in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "The Seine flows through Paris."
+      }
+    ]
+  },
+  {
+    "qid": "syn090",
+    "difficulty": "hard",
+    "question": "What ocean borders the country where Machu Picchu is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn091",
+    "difficulty": "medium",
+    "question": "What language family includes the official language of Portugal?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Portugal",
+        "text": "The official language of Portugal is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "syn092",
+    "difficulty": "easy",
+    "question": "What profession was the author of 1984 known for?",
+    "gold_answer": "writer",
+    "context": [
+      {
+        "title": "1984",
+        "text": "The novel 1984 was written by George Orwell."
+      },
+      {
+        "title": "George Orwell",
+        "text": "George Orwell was an English writer and journalist."
+      }
+    ]
+  }
+]

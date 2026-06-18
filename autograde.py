@@ -30,7 +30,11 @@ def main(report_path: str = "outputs/sample_run/report.json") -> None:
     
     # 3. Analysis depth (20 points)
     analysis_points = 0
-    if len(payload.get("failure_modes", {})) >= 3:
+    unique_failure_modes = set()
+    for value in payload.get("failure_modes", {}).values():
+        if isinstance(value, dict):
+            unique_failure_modes.update(value.keys())
+    if len(unique_failure_modes) >= 3:
         analysis_points += 8
     if len(payload.get("discussion", "")) >= 250:
         analysis_points += 12

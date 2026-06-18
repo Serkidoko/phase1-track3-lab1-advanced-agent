@@ -2,9 +2,11 @@ from __future__ import annotations
 from typing import Literal, Optional, TypedDict
 from pydantic import BaseModel, Field
 
+
 class ContextChunk(BaseModel):
     title: str
     text: str
+
 
 class QAExample(BaseModel):
     qid: str
@@ -13,13 +15,20 @@ class QAExample(BaseModel):
     gold_answer: str
     context: list[ContextChunk]
 
+
 class JudgeResult(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho kết quả đánh giá (score, reason, ...)
-    pass
+    score: int = Field(ge=0, le=1)
+    reason: str
+    missing_evidence: list[str] = Field(default_factory=list)
+    spurious_claims: list[str] = Field(default_factory=list)
+
 
 class ReflectionEntry(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho một mục reflection (attempt_id, lesson, strategy, ...)
-    pass
+    attempt_id: int
+    failure_reason: str
+    lesson: str
+    next_strategy: str
+
 
 class AttemptTrace(BaseModel):
     attempt_id: int
@@ -29,6 +38,7 @@ class AttemptTrace(BaseModel):
     reflection: Optional[ReflectionEntry] = None
     token_estimate: int = 0
     latency_ms: int = 0
+
 
 class RunRecord(BaseModel):
     qid: str
@@ -44,6 +54,7 @@ class RunRecord(BaseModel):
     reflections: list[ReflectionEntry] = Field(default_factory=list)
     traces: list[AttemptTrace] = Field(default_factory=list)
 
+
 class ReportPayload(BaseModel):
     meta: dict
     summary: dict
@@ -51,6 +62,7 @@ class ReportPayload(BaseModel):
     examples: list[dict]
     extensions: list[str]
     discussion: str
+
 
 class ReflexionState(TypedDict):
     question: str
